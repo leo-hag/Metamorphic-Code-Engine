@@ -1,2 +1,4 @@
 # Metamorphic-Code-Engine
-Implementation of metamorphic code techniques at runtime.
+
+## Overview:
+This project utilizes sophisticated x64 metamorphic techniques to obfuscate an assembly. 
